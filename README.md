@@ -1,0 +1,1 @@
+This repo only contains the jupyter notebooks from the analysis; attempting to re-run certain functions may not work as helper files/csv files are not included on here. Please reach out directly if you would like to see the full project data.
